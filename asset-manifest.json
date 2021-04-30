@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dbcb70fe.chunk.css",
+    "main.js": "/static/js/main.ced40b39.chunk.js",
+    "main.js.map": "/static/js/main.ced40b39.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0a64cc5f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0a64cc5f.js.map",
+    "static/js/2.e6169dfb.chunk.js": "/static/js/2.e6169dfb.chunk.js",
+    "static/js/2.e6169dfb.chunk.js.map": "/static/js/2.e6169dfb.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.dbcb70fe.chunk.css.map": "/static/css/main.dbcb70fe.chunk.css.map",
+    "static/js/2.e6169dfb.chunk.js.LICENSE.txt": "/static/js/2.e6169dfb.chunk.js.LICENSE.txt",
+    "static/media/Bitmap.d4e2da01.jpg": "/static/media/Bitmap.d4e2da01.jpg",
+    "static/media/Kiwi.scss": "/static/media/table.9458e421.png",
+    "static/media/stylesheet.css": "/static/media/Gilroy-UltraLightItalic.c657288b.woff",
+    "static/media/Group23.77724948.jpg": "/static/media/Group23.77724948.jpg",
+    "static/media/ITcompany.6df4d600.jpg": "/static/media/ITcompany.6df4d600.jpg",
+    "static/media/Registartion.scss": "/static/media/RegRight.6f8401b8.jpg",
+    "static/media/badroom.f702d356.jpg": "/static/media/badroom.f702d356.jpg",
+    "static/media/bicycle.8ead1475.jpg": "/static/media/bicycle.8ead1475.jpg",
+    "static/media/bike.265e8a9c.jpg": "/static/media/bike.265e8a9c.jpg",
+    "static/media/car.0997bbd3.jpg": "/static/media/car.0997bbd3.jpg",
+    "static/media/foods.1e720717.jpg": "/static/media/foods.1e720717.jpg",
+    "static/media/hotel.03458b59.jpg": "/static/media/hotel.03458b59.jpg",
+    "static/media/hotel.b699d871.jpg": "/static/media/hotel.b699d871.jpg",
+    "static/media/iceSniker.5f174e7a.jpg": "/static/media/iceSniker.5f174e7a.jpg",
+    "static/media/iphone.4b415910.jpg": "/static/media/iphone.4b415910.jpg",
+    "static/media/kfc.b4d2f942.jpg": "/static/media/kfc.b4d2f942.jpg",
+    "static/media/kitchen.4d901273.jpg": "/static/media/kitchen.4d901273.jpg",
+    "static/media/metal.aa5eabbc.jpg": "/static/media/metal.aa5eabbc.jpg",
+    "static/media/newbicycle.3d5b7043.jpg": "/static/media/newbicycle.3d5b7043.jpg",
+    "static/media/oboy.55208c30.jpg": "/static/media/oboy.55208c30.jpg",
+    "static/media/oldbicycle.cc711f6c.jpg": "/static/media/oldbicycle.cc711f6c.jpg",
+    "static/media/shkaf.aeb59e6d.jpg": "/static/media/shkaf.aeb59e6d.jpg",
+    "static/media/tool.93615bcd.jpg": "/static/media/tool.93615bcd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a64cc5f.js",
+    "static/js/2.e6169dfb.chunk.js",
+    "static/css/main.dbcb70fe.chunk.css",
+    "static/js/main.ced40b39.chunk.js"
+  ]
+}
